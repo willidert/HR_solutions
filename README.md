@@ -1,3 +1,5 @@
-# HackerRank
+# HackerRank (https://hackerrank.com/williderteixeira)
 
-Manter este repositório a todo custo
+* Repositório de códigos resolvidos na plataforma
+* Just one more guy programming :)  
+
