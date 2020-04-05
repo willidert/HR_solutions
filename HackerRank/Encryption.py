@@ -8,7 +8,7 @@ def encryption(s):
         row += 1
     msg = [[' ' for _ in range(col)] for _ in range(row)]
 
-    
+
     iterator = 0
     for i in range(row):
         for j in range(col):
@@ -25,7 +25,7 @@ def encryption(s):
         cMsg += ' '
 
     return cMsg.rstrip()
-        
+
 if __name__ == '__main__':
     s = input()
     print(encryption(s))
